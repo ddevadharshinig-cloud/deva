@@ -1,0 +1,6 @@
+{
+  "name": "BizAssist AI",
+  "description": "Enterprise AI-Powered Customer Support & Autonomous Resolution Engine with Admin Console, Support Staff Workspace, Customer Portal, and Knowledge Base.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
